@@ -4,3 +4,4 @@ A simple site with a portfolio page (for art) and an about me to brush up on my 
 
 # How It's Made:
 Tech used: HTML, CSS, JavaScript using VSCode
+See yuricelee.uk for implementation.
